@@ -18,7 +18,7 @@
 1. Clone the repository:
     ```sh
     git clone https://github.com/elsuselamos/Layeredge.git
-    cd LayerEdge-Auto-Bot
+    cd Layeredge
     ```
 
 2. Install the required dependencies:
